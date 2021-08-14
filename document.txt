@@ -1,2 +1,3 @@
 this is evolution document
-document version 1 : dev complete
+document version 1 : dev complete, story 1
+document version 2 : changes by dev2 , story 2
